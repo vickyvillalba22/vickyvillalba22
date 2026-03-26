@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-👋 Hi there! I'm a 22-year-old Multimedia Technology student passionate about front-end web development. I also study UX/UI design and digital marketing to create impactful and user-friendly experiences. I'm highly detail-oriented and organized, always striving for excellence in my work. 🚀
+👋 Hi there! I'm a 23-year-old Multimedia Technology student passionate about front-end web development. I also study UX/UI design and digital marketing to create impactful and user-friendly experiences. I'm highly detail-oriented and organized, always striving for excellence in my work. 🚀
 * 
 
 - 🌱 I’m currently learning ...
